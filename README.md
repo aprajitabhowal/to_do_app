@@ -39,7 +39,7 @@ Install the necessary Flutter and Dart plugins in your IDE.
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/aprajitabhowal/to_do_app.git
     ```
 
 2. Install dependencies:
